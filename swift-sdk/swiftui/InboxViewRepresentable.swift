@@ -2,7 +2,7 @@
 //  Copyright © 2021 Iterable. All rights reserved.
 //
 
-#if canImport(SwiftUI) && !arch(arm)
+#if canImport(SwiftUI)
 
 import Foundation
 import SwiftUI
